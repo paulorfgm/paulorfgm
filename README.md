@@ -11,25 +11,21 @@ a tecnologia pode transformar o mundo.
   
 ### 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-ferreira-de-godoy-moreira-42029627a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:paulorfgm@dcc.ufrj.br)
-
-<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:paulorfgm@dcc.ufrj.br)<br><br>
 
 ### 🚀 Projetos e Estudos
   
 - 💡 Projeto Pessoal: atualmente estou desenvolvendo um aplicativo de tarefas.
 - 🌱 Aprendizado: estou aprofundando meus conhecimentos em Power BI, Python, Java e Linux.
-- 💼 Oportunidades de estágio: estou aberto a novas oportunidades e desafios no mercado de tecnologia.
-
-<br>
+- 💼 Oportunidades de estágio: estou aberto a novas oportunidades e desafios no mercado de tecnologia.<br><br>
   
 ### 🌍 Mais sobre mim
 
 - 😄 Pronomes: ele/dele.
 - ⚡ Curiosidades: sou apaixonado por Pokémon e RPG de mesa.
-- 💬 Entre em contato! Estou sempre disposto a ajudar e compartilhar conhecimento.
+- 💬 Entre em contato! Estou sempre disposto a ajudar e compartilhar conhecimento.<br><br>
 
-<br>
+---
   
 ### 🛠️ Habilidades e Tecnologias
   
