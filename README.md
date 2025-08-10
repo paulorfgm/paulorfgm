@@ -2,7 +2,7 @@
 
 <br>
 
-Atualmente, sou estudante de Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ), cursando o 5º período. 
+Atualmente, sou estudante de Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ), cursando o 6º período. 
 Ao longo da minha trajetória acadêmica, desenvolvi uma crescente paixão por Data Science e Inteligência Artificial (IA). 
 Busco constantemente aprender e me atualizar sobre as inovações tecnológicas, explorando novas ferramentas e entendendo como 
 a tecnologia pode transformar o mundo.
